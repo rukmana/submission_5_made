@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+    <string name="title_movie">Movies</string>
+    <string name="title_tv_show">Tv Show</string>
+    <string name="title_activity_detail">Detail</string>
+    <string name="action_settings">Change Language Settings</string>
+    <string name="produser">Producer</string>
+    <string name="genre">Genre</string>
+    <string name="production_company">Production company(s)</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="succses_add_favorite">Succsed add to favorite</string>
+    <string name="succses_delete_favorite">Succsed delete from favorite</string>
+    <string name="no_data">No data</string>
+    <string name="search">Search</string>
+    <string name="setting">Setting</string>
+    <string name="daily_reminder">Daily Reminder</string>
+    <string name="release_today_reminder">Release Today Reminder</string>
+    <string name="on_release_reminder">Release Reminder Active</string>
+    <string name="off_release_reminder">Release Remindet Unactive</string>
+    <string name="new_release">New Release</string>
+    <string name="message_daily_reminder">The latest movie is waiting for you</string>
+    <string name="on_daily_reminder">Daily Reminder Active</string>
+    <string name="off_daily_reminder">Daily Remindet Unactive</string>
+
+    <string name="api_key">7422db3e4f8c559951ab973fafabac6e</string>
+    <string name="token">eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI3NDIyZGIzZTRmOGM1NTk5NTFhYjk3M2ZhZmFiYWM2ZSIsInN1YiI6IjViZTUyMTg5MGUwYTI2MTRhYzAzYzg1NyIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.R-8hkkM3zS-ztw3HFjqKW0rq9Sbc4A19cxP_j_Vbftg</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+</resources>
