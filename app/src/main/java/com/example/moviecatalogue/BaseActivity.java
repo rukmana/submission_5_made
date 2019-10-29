@@ -6,8 +6,7 @@ import android.support.v7.app.AppCompatActivity;
 public class BaseActivity extends AppCompatActivity {
 
     public String getApiKey(){
-        String apiKey = getResources().getString(R.string.api_key);
-        return apiKey;
+        return getResources().getString(R.string.api_key);
     }
 
     public static int manipulateColor(int color, float factor) {
